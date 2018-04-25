@@ -1,0 +1,24 @@
+body {
+  background: url(../img/fondo-2.jpg)
+  no-repeat fixed center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+
+}
+
+.logo {
+  width: 20rem;
+  margin-top: 1rem;
+}
+
+.menu {
+  margin-top: 4rem;
+}
+
+.slogan {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Gaegu', cursive;
+  margin-top: 4rem;
+}
