@@ -4,12 +4,16 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.bodybox {
+  background-color: #424242;
+  height: 12rem;
+}
+
 .container{
 
 }
 
 .logo {
-  width: 20rem;
   margin-top: 1rem;
 }
 
